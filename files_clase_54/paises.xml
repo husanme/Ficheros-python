@@ -1,0 +1,22 @@
+<paises>
+    <pais>
+        <nombre prefijo="34">España</nombre>
+        <capital>Madrid</capital>
+    </pais>
+    <pais>
+        <nombre prefijo="358">Finlandia</nombre>
+        <capital>Helsinki</capital>
+    </pais>
+    <pais>
+        <nombre prefijo="33">Francia</nombre>
+        <capital>París</capital>
+    </pais>
+    <pais>
+        <nombre prefijo="30">Grecia</nombre>
+        <capital>Atenas</capital>
+    </pais>
+    <pais>
+        <nombre prefijo="351">Portugal</nombre>
+        <capital>Lisboa</capital>
+    </pais>
+</paises>
